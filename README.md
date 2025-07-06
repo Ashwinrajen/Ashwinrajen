@@ -9,8 +9,6 @@ MTech AI @ NUS | Ex-Lionsbot & SUTD
 
 ## 📚 Research Profile
 
-🔗 [ResearchGate](https://www.researchgate.net/profile/Ashiwin-Rajendran)  
-
 • h-index: 3  
 • Citations: 96+  
 • Research Interest Score: 51.9  
@@ -18,7 +16,10 @@ MTech AI @ NUS | Ex-Lionsbot & SUTD
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [Ashwin_Rajendran](https://www.linkedin.com/in/ashwin-rajendran-5ab609157/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ashwin-rajendran-5ab609157/)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate)](https://www.researchgate.net/profile/Ashiwin-Rajendran)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Ashwinrajen)
+
 
 
 
