@@ -20,6 +20,14 @@ MTech AI @ NUS | Ex-Lionsbot & SUTD
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=ResearchGate)](https://www.researchgate.net/profile/Ashiwin-Rajendran)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/Ashwinrajen)
 
+## 📊 GitHub Stats
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinrajen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinrajen&layout=compact&theme=radical)
+
+## 📈 Contributions
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinrajen&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashwinrajen&theme=rogue)
+
 
 
 
