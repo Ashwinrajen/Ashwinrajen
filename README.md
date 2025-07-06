@@ -8,6 +8,9 @@
 • Research Interest Score: 51.9
 • Publications: 4 in Robotics & AI
 
+![Ashwin's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashwinrajendran&theme=rogue)
+
+
 
 
 
