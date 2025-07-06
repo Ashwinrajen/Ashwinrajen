@@ -16,6 +16,11 @@ MTech AI @ NUS | Ex-Lionsbot & SUTD
 • Research Interest Score: 51.9  
 • Publications: 4 in Robotics & AI
 
+## 🔗 Connect with Me
+
+- LinkedIn: [linkedin.com/in/ashwinrajendran](https://www.linkedin.com/in/ashwin-rajendran-5ab609157/)
+
+
 
 
 
