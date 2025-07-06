@@ -4,11 +4,11 @@ Robotics Software Engineer @BeeX | Specializing in AI, Perception & Autonomy
 MTech AI @ NUS | Ex-Lionsbot & SUTD 
 
 ## 📊 GitHub Stats
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinrajen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinrajen&layout=compact&theme=radical)
+![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashwinrajen&show_icons=true&theme=github-compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwinrajen&layout=compact&theme=github-compact)
 
 ## 📈 Contributions
-![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinrajen&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ashwinrajen&theme=github-compact)
 
 ## 📚 Research Profile
 
