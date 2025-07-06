@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-## 📊 GitHub Stats
+## 📚 Research Profile
 
-![Ashwin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwinrajendran&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinrajendran&layout=compact&theme=radical)
+🔗 [ResearchGate](https://www.researchgate.net/profile/Ashiwin-Rajendran)  
+• h-index: 3
+• Citations: 96+
+• Research Interest Score: 51.9
+• Publications: 4 in Robotics & AI
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ashwinrajendran&theme=radical)
 
 
 
