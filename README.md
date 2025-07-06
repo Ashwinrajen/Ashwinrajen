@@ -1,14 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Ashwin Rajendran
+
+Robotics Software Engineer @BeeX | Specializing in AI, Perception & Autonomy  
+MTech AI @ NUS | Ex-Lionsbot & SUTD 
 
 ## 📚 Research Profile
 
 🔗 [ResearchGate](https://www.researchgate.net/profile/Ashiwin-Rajendran)  
-• h-index: 3
-• Citations: 96+
-• Research Interest Score: 51.9
-• Publications: 4 in Robotics & AI
 
-![Ashwin's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ashwinrajendran&theme=rogue)
+• h-index: 3  
+• Citations: 96+  
+• Research Interest Score: 51.9  
+• Publications: 4 in Robotics & AI
 
 
 
