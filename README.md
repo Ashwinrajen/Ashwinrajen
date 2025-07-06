@@ -3,6 +3,10 @@
 Robotics Software Engineer @BeeX | Specializing in AI, Perception & Autonomy  
 MTech AI @ NUS | Ex-Lionsbot & SUTD 
 
+## 📈 GitHub Contribution Graph
+
+![Ashwin's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashwinrajen&theme=dracula)
+
 ## 📚 Research Profile
 
 🔗 [ResearchGate](https://www.researchgate.net/profile/Ashiwin-Rajendran)  
