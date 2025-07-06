@@ -18,7 +18,7 @@ MTech AI @ NUS | Ex-Lionsbot & SUTD
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [linkedin.com/in/ashwinrajendran](https://www.linkedin.com/in/ashwin-rajendran-5ab609157/)
+- LinkedIn: [Ashwin_Rajendran](https://www.linkedin.com/in/ashwin-rajendran-5ab609157/)
 
 
 
